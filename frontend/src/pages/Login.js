@@ -135,7 +135,7 @@ const Login = ({ setUserProfile }) => {
     // Start loading
     setLoading(true);
 
-    const API_URL = 'http://localhost:8000';
+    const API_URL = 'https://backendserver-rp1l.onrender.com/';
 
     if (isSignUp) {
       // SIGN UP: Call Flask API
