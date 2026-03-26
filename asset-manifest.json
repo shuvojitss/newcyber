@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newcyber/static/css/main.78c74640.css",
+    "main.js": "/newcyber/static/js/main.13d29b87.js",
+    "index.html": "/newcyber/index.html",
+    "main.78c74640.css.map": "/newcyber/static/css/main.78c74640.css.map",
+    "main.13d29b87.js.map": "/newcyber/static/js/main.13d29b87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78c74640.css",
+    "static/js/main.13d29b87.js"
+  ]
+}
